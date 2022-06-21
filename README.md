@@ -1,6 +1,6 @@
 Hi there 👋 
 
-* I'm <strong><color:blue>Ehsan</color></strong>. I've been a <strong>Forex Trader</strong> and <strong>Programmer</strong> for 14 years.
+* I'm <strong>Ehsan</strong>. I've been a <strong>Forex Trader</strong> and <strong>Programmer</strong> for 14 years.
 
 * 🔭 I’m currently working on Forex Trading and Programming
 * 🌱 I’m currently learning Python
